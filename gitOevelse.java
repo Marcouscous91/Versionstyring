@@ -6,4 +6,4 @@ public class gitOevelse {
 
         System.out.println("Hello World");
     }
-}Hej
+}Hej - ses
